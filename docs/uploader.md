@@ -6,7 +6,7 @@
 
 The Uploader **automatically** deploys .hex files to all @boardname@s connected to your computer.
 
-## [DOWNLOAD](https://www.pxt.io/microbit-uploader.zip)
+## [DOWNLOAD](https://www.touchdevelop.com/microbituploader.zip)
 
 ## ~
 
