@@ -15,7 +15,7 @@
             "sparkfun/pxt-weather-bit",
             "Tinkertanker/pxt-ssd1306-microbit",
             "minodekit/pxt-minode",
-            "LaboratoryForPlayfulComputation/pxt-blockytalkybluetooth"
+            "LaboratoryForPlayfulComputation/pxt-BlockyTalkyBLE"
         ],
         "preferredRepos": [
             "Microsoft/pxt-neopixel"
