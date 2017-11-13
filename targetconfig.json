@@ -3,7 +3,8 @@
         "approvedOrgs": [
             "Microsoft",
             "microbit-foundation",
-            "KitronikLtd"
+            "KitronikLtd",
+            "tinkertanker"
         ],
         "approvedRepos": [
             "CoderDojoOlney/pxt-olney",
@@ -13,7 +14,6 @@
             "sparkfun/pxt-gamer-bit",
             "sparkfun/pxt-moto-bit",
             "sparkfun/pxt-weather-bit",
-            "Tinkertanker/pxt-ssd1306-microbit",
             "minodekit/pxt-minode",
             "LaboratoryForPlayfulComputation/pxt-BlockyTalkyBLE"
         ],
