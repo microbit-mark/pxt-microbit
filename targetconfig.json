@@ -4,7 +4,8 @@
             "Microsoft",
             "microbit-foundation",
             "KitronikLtd",
-            "tinkertanker"
+            "tinkertanker",
+            "Seeed-Studio"
         ],
         "approvedRepos": [
             "CoderDojoOlney/pxt-olney",
@@ -17,8 +18,8 @@
             "minodekit/pxt-minode",
             "LaboratoryForPlayfulComputation/pxt-blockytalkyBLE",
             "mbitfun/pxt-katakana",
-            "jdarling/pxt-pca9685",
-            "Seeed-Studio/pxt-grove"
+            "jdarling/pxt-pca9685"
+            
         ],
         "preferredRepos": [
             "Microsoft/pxt-neopixel"
